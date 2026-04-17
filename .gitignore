@@ -1,0 +1,26 @@
+# Quartus / ModelSim build artifacts
+*.bak
+*.qws
+*.rpt
+*.summary
+*.pof
+*.sof
+*.jdi
+*.sld
+*.qar
+*.smsg
+db/
+incremental_db/
+simulation/qsim/
+simulation/modelsim/work/
+output_files/
+greybox_tmp/
+transcript
+vsim.wlf
+*.wlf
+work/
+
+# OS junk
+.DS_Store
+Thumbs.db
+__MACOSX/
